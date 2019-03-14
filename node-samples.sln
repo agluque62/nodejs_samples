@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "mongodb-testing", "sample1\mongodb-testing.njsproj", "{1BDDBC92-23BD-4F22-8BEB-29A7F2C54A8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BDDBC92-23BD-4F22-8BEB-29A7F2C54A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDDBC92-23BD-4F22-8BEB-29A7F2C54A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDDBC92-23BD-4F22-8BEB-29A7F2C54A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDDBC92-23BD-4F22-8BEB-29A7F2C54A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE16DB6B-ABA2-4FB9-A63F-9BEBCC68903F}
+	EndGlobalSection
+EndGlobal
