@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "mongodb-testing", "sample1\mongodb-testing.njsproj", "{1BDDBC92-23BD-4F22-8BEB-29A7F2C54A8F}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "angular2-testing", "sample2\angular2-testing.njsproj", "{B34969E0-9802-4F51-874D-DF414C4154BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1BDDBC92-23BD-4F22-8BEB-29A7F2C54A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BDDBC92-23BD-4F22-8BEB-29A7F2C54A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BDDBC92-23BD-4F22-8BEB-29A7F2C54A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B34969E0-9802-4F51-874D-DF414C4154BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B34969E0-9802-4F51-874D-DF414C4154BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B34969E0-9802-4F51-874D-DF414C4154BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B34969E0-9802-4F51-874D-DF414C4154BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
