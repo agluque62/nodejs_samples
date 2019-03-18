@@ -7,6 +7,8 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "mongodb-testing", "sample1\
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "angular2-testing", "sample2\angular2-testing.njsproj", "{B34969E0-9802-4F51-874D-DF414C4154BD}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "angular-cli-prj", "sample3\angular-cli-prj.njsproj", "{624CA54D-DF11-423F-A04F-D9C47E453103}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B34969E0-9802-4F51-874D-DF414C4154BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B34969E0-9802-4F51-874D-DF414C4154BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B34969E0-9802-4F51-874D-DF414C4154BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{624CA54D-DF11-423F-A04F-D9C47E453103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624CA54D-DF11-423F-A04F-D9C47E453103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624CA54D-DF11-423F-A04F-D9C47E453103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624CA54D-DF11-423F-A04F-D9C47E453103}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
